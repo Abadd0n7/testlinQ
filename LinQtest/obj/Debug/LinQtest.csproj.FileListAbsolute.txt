@@ -1,0 +1,7 @@
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\obj\Debug\LinQtest.csprojAssemblyReference.cache
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\obj\Debug\LinQtest.csproj.CoreCompileInputs.cache
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\bin\Debug\LinQtest.exe.config
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\bin\Debug\LinQtest.exe
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\bin\Debug\LinQtest.pdb
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\obj\Debug\LinQtest.exe
+C:\Users\WorstJunglerBR\source\repos\LinQtest\LinQtest\obj\Debug\LinQtest.pdb
